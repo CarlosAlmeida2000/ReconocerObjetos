@@ -1,0 +1,5 @@
+0 Borrador
+1 Cuaderno
+2 Lapiz
+3 Regla
+4 Desconocido
