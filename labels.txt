@@ -1,5 +1,8 @@
-0 Borrador
-1 Cuaderno
-2 Lapiz
-3 Regla
-4 Desconocido
+0 lapicero
+1 mochila
+2 regla
+3 sacapunta
+4 cuaderno
+5 usb
+6 lapiz
+7 borrador
